@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar este programa",
+      "request": "launch",
+      "command": "java -jar while.jar ${file}",
+      "type": "node-terminal"
+    }
+  ]
+}
